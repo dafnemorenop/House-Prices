@@ -1,0 +1,20 @@
+# Manipulación de datos
+pandas==1.5.3
+numpy==2.0
+
+# Visualización de datos
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.16.1
+
+# Preprocesamiento y selección de modelos
+scikit-learn==1.5.2
+category-encoders==2.6.0
+
+# Modelos avanzados de regresión
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2.0
+
+# Soporte adicional
+os-sys
